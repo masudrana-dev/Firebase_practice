@@ -17,9 +17,6 @@ function App() {
         <Route path='/home' element={<Home></Home>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/registration' element={<Registration></Registration>}></Route>
-        <Route path='/gallery' element={<GalleryReact></GalleryReact>}></Route>
-        <Route path='/about' element={<About />}></Route>
-        <Route path='/button' element={<ParticleEffectButton></ParticleEffectButton>}></Route>
       </Routes>
     </div>
   );

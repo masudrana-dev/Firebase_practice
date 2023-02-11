@@ -8,7 +8,7 @@ const Header = () => {
             <div className='flex text-center md:justify-between'>
                 <div className='logo text-3xl font-bold  hidden md:block'>
 
-                    <h1 className=''> <span className="text-orange-500">SUMCT</span></h1>
+                    <h1 className=''> <span className="text-white">SUMCT</span></h1>
 
                 </div>
                 <div className='font-bold text-xl menu '>

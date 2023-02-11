@@ -1,0 +1,10 @@
+.home-text {
+    position: relative;
+}
+
+
+.home-text h1 {
+    position: absolute;
+    left: 15%;
+    top: 360px;
+}
